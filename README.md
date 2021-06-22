@@ -2,4 +2,4 @@
 
 工程計算機
 
- code by Java
+Use Java Swing Gui by Intellij 
